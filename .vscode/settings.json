@@ -1,4 +1,6 @@
 {
     "python.pythonPath": "myvenv\\Scripts\\python.exe",
-    "workbench.iconTheme": "vscode-icons"
+    "workbench.iconTheme": "file-icons",
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always"
 }
